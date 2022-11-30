@@ -1,1 +1,2 @@
-# hubby261-proje02
+# PythonUI
+Python ile ilgili Tkinter uygulamaları
